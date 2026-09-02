@@ -11,7 +11,7 @@ Icelandic Wikipedia has an article on: [naður](https://is.wikipedia.org/wiki/Ma
 ## Noun
 manneskja _f_ (_genitive singular_ **manneskju**, _nominative plural_ **manneskjur**)
 
-1. a human being, a person, a man
+1. a human being, a person
    - Synonym: maður
 
 ## Declension
