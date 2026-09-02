@@ -2,7 +2,7 @@
 
 ## Icelandic
 
-Icelandic Wikipedia has an article on: [naður](https://is.wikipedia.org/wiki/Maður) (synonym)
+Icelandic Wikipedia has an article on: [maður](https://is.wikipedia.org/wiki/Maður) (synonym)
 
 ## Pronunciation
 
