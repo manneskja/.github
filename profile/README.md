@@ -1,6 +1,6 @@
 <a href="https://github.com/manneskja/oja">
   <img
-    src="./profile/oja.svg"
+    src="./profile/logo.svg"
     align="right"
     alt="Oja"
     width="300"
