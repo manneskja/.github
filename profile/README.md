@@ -1,3 +1,11 @@
+<a href="https://github.com/manneskja/oja">
+  <img
+    src="./profile/oja.svg"
+    align="right"
+    alt="Oja"
+    width="300"
+  />
+</a>
 # manneskja
 
 ## Icelandic
